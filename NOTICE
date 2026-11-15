@@ -1,0 +1,20 @@
+fastText 0.9.2
+Copyright (c) 2016-present, Facebook, Inc.
+https://github.com/facebookresearch/fastText
+Source revision: 5b5943c118b0ec5fb9cd8d20587de2b2d3966dfe
+The classifier code is distributed under the MIT license (LICENSE.fastText).
+
+fastText language identification model: lid.176.ftz
+Provided by Facebook Research / the fastText authors, unmodified.
+https://fasttext.cc/docs/en/language-identification.html
+https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.ftz
+The model is distributed under Creative Commons Attribution-ShareAlike 3.0
+Unported (LICENSE.model), separately from the classifier's MIT license.
+It was trained on Wikipedia, Tatoeba and SETimes data.
+
+References requested by the model authors:
+Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov (2016).
+Bag of Tricks for Efficient Text Classification. https://arxiv.org/abs/1607.01759
+Armand Joulin, Edouard Grave, Piotr Bojanowski, Matthijs Douze,
+Herve Jegou, Tomas Mikolov (2016). FastText.zip: Compressing text
+classification models. https://arxiv.org/abs/1612.03651
